@@ -13,7 +13,7 @@ The rest of the contents of this README file are directly from the original repo
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/DimitrisMilonopoulos/mitsugen.git
+git clone https://github.com/afk-echo/mitsugen.git
 ```
 
 2. Checkout to directory:
