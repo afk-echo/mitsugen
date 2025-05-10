@@ -1,5 +1,7 @@
 ## A fork of [mitsugen](https://github.com/DimitrisMilonopoulos/mitsugen)
 
+This fork was created to fix package compatibility issues faced when running `poetry install` on the original project. The config file has also been updated to use a Vesktop config path instead of a BetterDiscord one.
+
 The rest of the contents of this README file are directly from the original repositoty.
 
 ## Description
